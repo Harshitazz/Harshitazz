@@ -9,8 +9,11 @@ Hi there! I'm Harshita Pathak, a Computer Science and Engineering student at Mah
 ### What I've Learned So Far
 
 - **GitHub Analytics:** I've been actively working on projects and learning through GitHub.
+- - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshitazz&show_icons=true&theme=radical)
+
 - **Top Languages:** My GitHub usage statistics show the languages I've been primarily working with.
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshitazz&show_icons=true&theme=radical)
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitazz)
+
 
 
 ### 🤝 Connect with Me
